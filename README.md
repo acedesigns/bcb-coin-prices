@@ -49,4 +49,8 @@ Open another terminal and run the front-end
 npm run nx -- serve bitcoin
 ```
 
+Open Your Browser and head over to
+```$xslt
+http://localhost:4200/
+```
 
