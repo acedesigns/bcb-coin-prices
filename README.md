@@ -54,3 +54,19 @@ Open Your Browser and head over to
 http://localhost:4200/
 ```
 
+## Running Tests
+
+to run Front-End tests
+
+```$xslt
+npm run nx test bitcoin
+```
+
+
+to run API tests
+
+```$xslt
+npm run nx test api
+```
+
+
